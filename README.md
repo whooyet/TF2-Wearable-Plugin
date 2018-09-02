@@ -1,6 +1,3 @@
-sm_look
-sm_paint
-sm_style
-sm_randomlook
-sm_lookreset
-sm_looksetting
+Installation
+plugin :tf2idb, tf2attributes, tf2items plugin
+GameData: give.bots.weapons.txt
